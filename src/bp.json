@@ -2,14 +2,14 @@
     "producer_account_name": "eosbeaneosbp",
     "org": {
       "candidate_name": "EOS Bean",
-      "website": "https://eosbean.com",
+      "website": "https://www.eosbean.com",
       "code_of_conduct":"https://steemit.com/eos/@eosbean/eos-bean-code-of-conduct",
       "ownership_disclosure":"https://steemit.com/eos/@eosbean/eos-bean-ownership-disclosure",
       "email":"contact@eosbean.com",
       "branding":{
-        "logo_256":"https://eosbean.com/assets/logo/logo-256-white.png",
-        "logo_1024":"https://eosbean.com/assets/logo/logo-1024-white.png",
-        "logo_svg":"https://eosbean.com/assets/logo/logo.svg"
+        "logo_256":"https://bp.eosbean.com/assets/logo/logo-256-white.png",
+        "logo_1024":"https://bp.eosbean.com/assets/logo/logo-1024-white.png",
+        "logo_svg":"https://bp.eosbean.com/assets/logo/logo.svg"
       },
       "location": {
         "name": "Boston",
